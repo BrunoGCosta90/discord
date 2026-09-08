@@ -18,20 +18,20 @@
 
 ## Requisitos técnicos para utilização
 ###  Computador
-Windows: Windows 10 ou superior
-Mac: MacOS 12 ou superior
-Linux: Ubuntu 20.04, debian 11, openSUSE 16.2+ ou Fedora Linux 32+.
-Hardware: processador básico e 4G de ram 
+Windows: Windows 10 ou superior  
+Mac: MacOS 12 ou superior  
+Linux: Ubuntu 20.04, debian 11, openSUSE 16.2+ ou Fedora Linux 32+.  
+Hardware: processador básico e 4G de ram  
 
 ###  Mobile
-Android: android 7.0
-IOS: ios 16 
+Android: android 7.0  
+IOS: ios 16  
 
  ## Desenvolvedores
-Guilherme Cerqueira Vaz
-Glebson Delphino júnior
-Guilherme Sampaio Lopes
-Bruno Gallego Costa
-Gustavo De Morais Rodrigues 
-Gustavo Da Silva Santos
-João Vitor Andrade Pereira
+Guilherme Cerqueira Vaz  
+Glebson Delphino Júnior  
+Guilherme Sampaio Lopes  
+Bruno Gallego Costa  
+Gustavo De Morais Rodrigues  
+Gustavo Da Silva Santos  
+João Vitor Andrade Pereira  
