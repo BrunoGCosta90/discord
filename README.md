@@ -1,8 +1,5 @@
 # Discord
 
-## Nome do site 
-  Discord
-
 ## Descrição
   Um aplicativo/site usado para comunicações entres usuários possibilitando a criançao de servidores para eventos, comunidades e servidores pessoais para interação com amigos 
 
